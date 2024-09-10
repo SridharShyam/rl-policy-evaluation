@@ -1,5 +1,7 @@
 # POLICY EVALUATION
 
+### NAME: SHYAM S
+### REG.NO: 212223240156
 ## AIM
 To develop a Python program to evaluate the given policy by maximizing its cumulative reward while dealing with slippery terrain.
 
